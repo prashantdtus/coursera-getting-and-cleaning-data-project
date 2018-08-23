@@ -1,5 +1,13 @@
 # coursera-getting-and-cleaning-data-project
-Getting and Cleaning Data Course Project
+
+Getting-and-Cleaning-Data---Course-Project
+The repository was created for Peer Graded Assignment: Getting and Cleaning Data Course Project, available at Coursera.
+
+Data source
+Data for this project was obtained from the https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Data description is available at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
 
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
@@ -12,3 +20,5 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 7.Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.                   
 
 The end result is shown in the file tidydata.txt
+
+
